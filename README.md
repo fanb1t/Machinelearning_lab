@@ -1,32 +1,23 @@
 # 🧠 Machine Learning Labs
 
-คลังความรู้และแบบฝึกหัดจากการเรียนรู้เกี่ยวกับ Machine Learning ตั้งแต่พื้นฐานจนถึงหัวข้อขั้นสูง จัดเก็บเป็น Lab และ Notebook เพื่อใช้ฝึกฝน วิเคราะห์ และทดลองแบบ Hands-on
+Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn patterns and make predictions from data without being explicitly programmed. As more training data is provided, the model refines its parameters automatically and delivers increasingly accurate results.
 
 ---
 
-## 📚 สิ่งที่อยู่ใน Repo นี้
+## 🔍 Topics to Learn 
 
-- `Lab1_Introduction/`: แนะนำพื้นฐาน Machine Learning, ความแตกต่างของ Supervised และ Unsupervised Learning
-- `Lab2_LinearRegression/`: ทบทวนสถิติและทำ Linear Regression ด้วย Python
-- `Lab3_Classification/`: การทำ Binary Classification (เช่น Logistic Regression, KNN)
-- `Lab4_DecisionTrees/`: การใช้ Decision Trees และ Random Forest
-- `Lab5_Clustering/`: การแบ่งกลุ่มข้อมูล (เช่น K-Means, Hierarchical Clustering)
-- `Lab6_ModelEvaluation/`: การประเมินผลโมเดล เช่น Accuracy, Precision, Recall, F1-Score
-- `Lab7_DeepLearning/`: การใช้ Neural Networks เบื้องต้นด้วย TensorFlow/Keras
-- `Lab8_Projects/`: โปรเจกต์เล็ก ๆ ที่ประยุกต์ใช้ Machine Learning กับข้อมูลจริง
+- **Supervised Learning**: Learning from labeled data to make predictions or classifications (e.g., Linear Regression, Decision Trees, Support Vector Machines)
+- **Unsupervised Learning**: Discovering hidden patterns in unlabeled data (e.g., k‑Means Clustering, Principal Component Analysis) 
+
 
 ---
 
-## 🛠️ เทคโนโลยีที่ใช้
+## 📌🗺️ Roadmap to learn ML (based on [The Roadmap for Mastering Machine Learning in 2025](https://machinelearningmastery.com/roadmap-mastering-machine-learning-2025/))
 
-- Python 3.10+
-- Jupyter Notebook
-- NumPy / Pandas / Matplotlib / Seaborn
-- scikit-learn
-- TensorFlow / Keras
-- [Optionally] PyTorch
+1. Learn Maths
+
 
 ---
 
-## 🗂️ โครงสร้าง Repository
+
 
