@@ -2,7 +2,7 @@
 
 Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn patterns and make predictions from data without being explicitly programmed. As more training data is provided, the model refines its parameters automatically and delivers increasingly accurate results.
 
----
+--- 
 
 ## 🔍 Topics to Learn 
 
